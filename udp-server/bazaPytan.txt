@@ -1,0 +1,15 @@
+P Ile to jest 2+2:a
+a:4
+b:2
+c:1
+d:0
+P Ile to jest 2+2:a
+a:4
+b:2
+c:1
+d:0
+P Ile to jest 2+2:a
+a:4
+b:2
+c:1
+d:0
